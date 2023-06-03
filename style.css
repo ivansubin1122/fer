@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: red;
+border-radius:25px  ;
+}
+header img{
+padding: 15px;
+}
+header a{
+    color: Gainsboro;
+}
+h1 {
+    background-color:  Gold;
+   border: 1px solid Goldenrod;
+    border-radius: 35px;
+}
+footer{
+   background-color: IndianRed ;
+   border: 1px solid OrangeRed;
+    border-radius: 35px ;
+    padding: 20px;
+    color: blue;
+}
+main{
+margin: 14px;
+font-size: 22px;
+}
+main h2{
+    color:red ;
+}
+.t4{
+    background-color: IndianRed ;
+   border: 1px solid DarkGoldenRod;
+    border-radius: 32px ;
+    padding:3px;
+    color:BlueViolet ;
+}
+.p0{
+ background-color: MediumSeaGreen;
+   border: 1px solid DarkOrange ;
+    border-radius: 20px ;
+    margin: 20px;
+    padding: 3px;
+    color:GreenYellow ;   
+}
+.h4{
+   background-color: honeydew;
+    color: green;
+}
+.u7{
+    background-color: khaki;
+    color: grey;
+}
